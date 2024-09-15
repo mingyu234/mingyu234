@@ -1,4 +1,5 @@
 ## Hi there 👋
+202434767 박민규입니다
 
 <!--
 **mingyu234/mingyu234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
